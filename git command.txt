@@ -9,6 +9,8 @@ commit -->command is can also used directly by avoiding add command
      |-->[eg]git commit -am "{message}"
 push -> command is used to store the changes in local host to the github repository
      |-->show mention the branch [eg]git push origin {branch name}
+pull -->command used to downlord the code from the branch
+     |-->[eg]git pull origin {branch}
 branch -> command is used to see the current branch name
      |--> [eg]git branch
 branch [use]--> command is also used to change the name of branch with the help of -m
