@@ -9,6 +9,8 @@ push -> command is used to store the changes in local host to the github reposit
      |-->show mention the branch [eg]git push origin {branch name}
 branch -> command is used to see the current branch name
      |--> [eg]git branch
-branch [use]--> command is also used to change the name of branch withe the help of -m
+branch [use]--> command is also used to change the name of branch with the help of -m
      |-->[eg]git branch -m[or]-M {new branch name}
+branch [use] --> command is also used to list the branchs with the help of -a
+     |-->[eg]git branch -a
 status -> command is used to check the file status whether untracked,modified,etc...
