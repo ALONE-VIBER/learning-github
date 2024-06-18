@@ -14,3 +14,6 @@ branch [use]--> command is also used to change the name of branch with the help 
 branch [use] --> command is also used to list the branchs with the help of -a
      |-->[eg]git branch -a
 status -> command is used to check the file status whether untracked,modified,etc...
+     |-->[eg]git status
+checkout -->command is used to change the branch
+     |-->[eg]git checkout {branch name}
