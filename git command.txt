@@ -1,4 +1,6 @@
+git -> command should be used before every git commands
 add -> command is used to add the new file to the local host[inbetween]
+     |-> used to modify,delete and create an file
 commit -> command is used to store the local host
      |--> {-m} command is used to set the message [eg]git commit -m "message"
 push -> command is used to store the changes in local host to the github repository
