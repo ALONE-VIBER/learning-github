@@ -1,8 +1,14 @@
 git -> command should be used before every git commands
 add -> command is used to add the new file to the local host[inbetween]
      |-> used to modify,delete and create an file
+     |-->[eg]git add "{file name}"
 commit -> command is used to store the local host
-     |--> {-m} command is used to set the message [eg]git commit -m "message"
+     |--> {-m} command is used to set the message
+     |--> [eg]git commit -m "{message}"
 push -> command is used to store the changes in local host to the github repository
-     |-->show mention the branch [eg]git push origin main
+     |-->show mention the branch [eg]git push origin {branch name}
+branch -> command is used to see the current branch name
+     |--> [eg]git branch
+branch [use]--> command is also used to change the name of branch withe the help of -m
+     |-->[eg]git branch -m[or]-M {new branch name}
 status -> command is used to check the file status whether untracked,modified,etc...
