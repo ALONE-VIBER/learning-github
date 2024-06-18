@@ -1,5 +1,6 @@
-add -> command is used to add the new folder to the local host
+add -> command is used to add the new file to the local host[inbetween]
 commit -> command is used to store the local host
+     |--> {-m} command is used to set the message [eg]git commit -m "message"
 push -> command is used to store the changes in local host to the github repository
-     |-->show mention the branch [eg].git push orgin main
-status -> command is used to check the file status whether untracked,etc...
+     |-->show mention the branch [eg]git push origin main
+status -> command is used to check the file status whether untracked,modified,etc...
